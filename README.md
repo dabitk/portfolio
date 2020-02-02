@@ -16,11 +16,11 @@ Project #3:
 Project #4: 
 ![alt text](https://github.com/dabitk/portfolio/blob/master/pg5.JPG "pg5")
 
-Project #5: 
-![alt text](https://github.com/dabitk/portfolio/blob/master/pg6.JPG "pg6")
+Project 5: 
+![alt text](https://github.com/dabitk/portfolio/blob/master/PG6.JPG "pg6")
 
-Project #6: 
-![alt text](https://github.com/dabitk/portfolio/blob/master/pg7.JPG "pg7")
+Project 6: 
+![alt text](https://github.com/dabitk/portfolio/blob/master/PG7.JPG "pg7")
 
-Project #7: 
-![alt text](https://github.com/dabitk/portfolio/blob/master/pg8.JPG "pg8")
+Project 7: 
+![alt text](https://github.com/dabitk/portfolio/blob/master/PG8.JPG "pg8")

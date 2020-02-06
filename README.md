@@ -18,3 +18,5 @@ My portfolio as of 2020.02.06
 ![alt text](https://github.com/dabitk/portfolio/blob/master/PG7.JPG "pg7")
 
 ![alt text](https://github.com/dabitk/portfolio/blob/master/PG8.JPG "pg8")
+
+![alt text](https://github.com/dabitk/portfolio/blob/master/PG9.JPG "pg9")

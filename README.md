@@ -1,5 +1,5 @@
 # portfolio
-My portfolio as of 2020.02.06
+My portfolio as of 2020.03.14
 
 
 ![alt text](https://github.com/dabitk/portfolio/blob/master/pg1.jpg "pg1")
